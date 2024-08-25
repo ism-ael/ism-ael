@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ism-ael
-- 💻 I'm a programmer (on pause)
 - ⚛️ I've got experience w/ frontend, backend, and ui design
-- 📦 This account is a collection of my past and new projects
+- 💵 Business? What business...
 
 <!---
 ism-ael/ism-ael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
