@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ism-ael
+- 👋 Hey, I’m @ism-ael
 - ⚛️ I've got experience w/ frontend, backend, and ui design
 - ❓Un français-americain-malien en Amerique...
 
