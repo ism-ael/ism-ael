@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @ism-ael
 - ⚛️ I've got experience w/ frontend, backend, and ui design
-- ❓Un français-americain-malien en Amerique...
+- ❓Je suis français-americain-malien en Amerique...
 
 <!---
 ism-ael/ism-ael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
